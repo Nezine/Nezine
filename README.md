@@ -85,7 +85,6 @@ My goal is to keep learning by building practical things, reading source code, a
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nezine&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nezine&hide_border=true&theme=github-dark-blue" height="165" alt="GitHub streak" />
 </div>
 
