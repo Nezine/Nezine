@@ -2,7 +2,7 @@
 
 # Hoang Anh
 
-### Software Engineer · Systems & Web Developer
+### Software Engineer · Systems & Embedded Developer
 
 <p>
   <a href="https://github.com/Nezine">
@@ -11,7 +11,7 @@
   <a href="mailto:thoanganh2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Web-36BCF7?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Embedded-36BCF7?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
 </p>
 
 ```text
@@ -28,11 +28,11 @@ Build slowly. Understand deeply. Ship intentionally.
 
 ## About
 
-I’m a curious developer interested in the layers beneath the interface — from how operating systems and kernels work to how reliable web applications are designed and deployed.
+I’m a curious developer interested in the layers beneath the interface — from how operating systems and kernels work to how embedded systems interact with hardware.
 
 My goal is to keep learning by building practical things, reading source code, and understanding **why** systems behave the way they do.
 
-- Interested in **performance, debugging, clean architecture, and developer tooling**
+- Interested in **embedded systems, performance, debugging, clean architecture, and developer tooling**
 - Reach me at **[thoanganh2007@gmail.com](mailto:thoanganh2007@gmail.com)**
 
 ---
@@ -46,10 +46,10 @@ My goal is to keep learning by building practical things, reading source code, a
 │  ├─ C/C++ and memory-oriented programming                   │
 │  └─ Processes, filesystems, networking, and debugging       │
 │                                                             │
-│  WEB                                                         │
-│  ├─ Accessible and responsive interfaces                    │
-│  ├─ Node.js backend development                             │
-│  └─ Databases, APIs, and deployment                         │
+│  EMBEDDED                                                    │
+│  ├─ Microcontrollers and embedded programming                │
+│  ├─ Hardware interfaces, sensors, and communication buses   │
+│  └─ Firmware development, testing, and debugging             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -60,13 +60,13 @@ My goal is to keep learning by building practical things, reading source code, a
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" alt="Languages" />
 </p>
 
 ### Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,docker,linux,git,postman,vscode" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake,linux,git,vscode" alt="Technologies and tools" />
 </p>
 
 ---
