@@ -93,14 +93,6 @@ My goal is to keep learning by building practical things, reading source code, a
 
 <div align="center">
 
-```text
-                _      _
- _ __ ___  ___ | | ___| |_   _ __ ___
-| '__/ _ \/ __|| |/ _ \ __| | '__/ _ \
-| | |  __/ (__ | |  __/ |_  | | |  __/
-|_|  \___|\___||_|\___|\__| |_|  \___|
-```
-
 <sub>Learning one layer at a time.</sub>
 
 </div>
