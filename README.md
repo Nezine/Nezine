@@ -32,11 +32,8 @@ I’m a curious developer interested in the layers beneath the interface — fro
 
 My goal is to keep learning by building practical things, reading source code, and understanding **why** systems behave the way they do.
 
-- 🌱 Currently learning **web development, backend systems, and system design**
-- 🐧 Exploring **Linux, kernel concepts, C/C++, and low-level programming**
-- 🌐 Building with **HTML, CSS, JavaScript, Node.js, and MySQL**
-- 🧠 Interested in **performance, debugging, clean architecture, and developer tooling**
-- 📫 Reach me at **[thoanganh2007@gmail.com](mailto:thoanganh2007@gmail.com)**
+- Interested in **performance, debugging, clean architecture, and developer tooling**
+- Reach me at **[thoanganh2007@gmail.com](mailto:thoanganh2007@gmail.com)**
 
 ---
 
