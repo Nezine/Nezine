@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Nezine&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Linux%20%7C%20Embedded%20Systems%20%7C%20Low-Level%20Programming&descAlignY=62&descSize=18" alt="Nezine header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Nezine&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Building%20Reliable%20Software%20Close%20to%20the%20Hardware&descAlignY=62&descSize=18" alt="Nezine header" />
 </div>
 
 <div align="center">
 
-### Linux Engineer · Embedded Programmer · Systems Developer
+### Embedded Linux · Firmware · C/C++
 
 <p>
   <a href="https://github.com/Nezine">
