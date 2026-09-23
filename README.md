@@ -46,10 +46,10 @@ My goal is to keep learning by building practical things, reading source code, a
 │  ├─ C/C++ and memory-oriented programming                   │
 │  └─ Processes, filesystems, networking, and debugging       │
 │                                                             │
-│  EMBEDDED                                                    │
-│  ├─ Microcontrollers and embedded programming                │
+│  EMBEDDED                                                   │
+│  ├─ Microcontrollers and embedded programming               │
 │  ├─ Hardware interfaces, sensors, and communication buses   │
-│  └─ Firmware development, testing, and debugging             │
+│  └─ Firmware development, testing, and debugging            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
