@@ -53,8 +53,8 @@ My work centers on using Linux as a foundation for practical AI systems, develop
 │                                                             │
 │  AI & AUTOMATION                                            │
 │  ├─ AI-assisted developer workflows                         │
-│  ├─ Agentic systems and orchestration                        │
-│  └─ Data-aware tools and retrieval workflows                 │
+│  ├─ Agentic systems and orchestration                       │
+│  └─ Data-aware tools and retrieval workflows                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,7 +65,7 @@ My work centers on using Linux as a foundation for practical AI systems, develop
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,sql,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,c" alt="Languages" />
 </p>
 
 ### Technologies & Tools
