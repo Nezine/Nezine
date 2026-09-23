@@ -103,6 +103,6 @@ My work centers on embedded programming, low-level systems, firmware, and the Li
 
 <div align="center">
 
-<sub>Learning Linux, hardware, and low-level systems one layer at a time.</sub>
+<sub>Learning one layer at a time.</sub>
 
 </div>
