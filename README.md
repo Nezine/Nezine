@@ -1,25 +1,30 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuanhao%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
+</div>
 
-# Hoang Anh
+<div align="center">
 
-### Software Engineer · Systems & Embedded Developer
+# Yuanhao Zhong
+
+### AI Engineer · AI Agents · Multimodal LLMs
 
 <p>
   <a href="https://github.com/Nezine">
     <img src="https://img.shields.io/badge/GitHub-Nezine-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:thoanganh2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Embedded-36BCF7?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20AI%20Systems-36BCF7?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-AI4Data%20%7C%20LLMs-7C3AED?style=flat-square" alt="Stack" />
 </p>
 
 ```text
 $ whoami
-hoang-anh
+yuanhao
+
+$ uname -a
+Linux x86_64 6.8.0-rc1 # AI systems, agents, and data workflows
 
 $ cat /etc/motd
-Build slowly. Understand deeply. Ship intentionally.
+Build resilient AI products with Linux discipline.
 ```
 
 </div>
@@ -28,12 +33,13 @@ Build slowly. Understand deeply. Ship intentionally.
 
 ## About
 
-I’m a curious developer interested in the layers beneath the interface — from how operating systems and kernels work to how embedded systems interact with hardware.
+I’m an AI engineer who enjoys building intelligent systems at the intersection of data, language models, and production infrastructure.
 
-My goal is to keep learning by building practical things, reading source code, and understanding **why** systems behave the way they do.
+My focus is on AI4Data, AI agents, multimodal LLMs, and the engineering patterns that make ideas reliable in real-world workflows.
 
-- Interested in **embedded systems, performance, debugging, clean architecture, and developer tooling**
-- Reach me at **[thoanganh2007@gmail.com](mailto:thoanganh2007@gmail.com)**
+- Interested in **AI agents, multimodal LLMs, retrieval systems, data pipelines, and Linux-based tooling**
+- Love turning prototypes into systems that are observable, testable, and scalable
+- Prefer **practical experimentation** over hype-driven development
 
 ---
 
@@ -42,14 +48,14 @@ My goal is to keep learning by building practical things, reading source code, a
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │  SYSTEMS                                                    │
-│  ├─ Linux internals and kernel fundamentals                 │
-│  ├─ C/C++ and memory-oriented programming                   │
-│  └─ Processes, filesystems, networking, and debugging       │
+│  ├─ Linux environments and shell-first workflows            │
+│  ├─ Reliable data pipelines and observability               │
+│  └─ AI system design, deployment, and debugging             │
 │                                                             │
-│  EMBEDDED                                                   │
-│  ├─ Microcontrollers and embedded programming               │
-│  ├─ Hardware interfaces, sensors, and communication buses   │
-│  └─ Firmware development, testing, and debugging            │
+│  AI & LLMs                                                  │
+│  ├─ Agentic workflows and orchestration                     │
+│  ├─ Multimodal LLM applications                             │
+│  └─ Data-aware reasoning and retrieval systems               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -60,25 +66,25 @@ My goal is to keep learning by building practical things, reading source code, a
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,sql,javascript" alt="Languages" />
 </p>
 
 ### Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake,linux,git,vscode" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,pytorch,tensorflow,anaconda" alt="Technologies and tools" />
 </p>
 
 ---
 
 ## Engineering Principles
 
-> Read the source. Measure before optimizing. Keep the interface simple.
+> Read the source. Measure before optimizing. Keep the interfaces simple.
 
-- Prefer understanding over memorizing.
-- Treat debugging as investigation, not guesswork.
-- Build small, testable pieces before adding complexity.
-- Learn from the operating system instead of hiding from it.
+- Build systems that are observable before they are impressive.
+- Treat AI workflows like infrastructure: versioned, debuggable, and reproducible.
+- Learn from the OS and the data layer instead of hiding behind abstractions.
+- Ship small, testable pieces before scaling complexity.
 
 ---
 
@@ -92,6 +98,6 @@ My goal is to keep learning by building practical things, reading source code, a
 
 <div align="center">
 
-<sub>Learning one layer at a time.</sub>
+<sub>Learning systems, models, and tools one layer at a time.</sub>
 
 </div>
