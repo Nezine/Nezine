@@ -1,18 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Nezine&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Linux%20%7C%20AI%20Systems%20%7C%20Automation&descAlignY=62&descSize=18" alt="Nezine header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Nezine&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Linux%20%7C%20Embedded%20Systems%20%7C%20Low-Level%20Programming&descAlignY=62&descSize=18" alt="Nezine header" />
 </div>
 
 <div align="center">
 
-
-### Linux Engineer · AI Systems · Automation
+### Linux Engineer · Embedded Programmer · Systems Developer
 
 <p>
   <a href="https://github.com/Nezine">
     <img src="https://img.shields.io/badge/GitHub-Nezine-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Systems-36BCF7?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Linux%20%7C%20AI%20%7C%20Automation-7C3AED?style=flat-square" alt="Stack" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Embedded%20Systems-36BCF7?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-C%20%7C%20C%2B%2B%20%7C%20Embedded%20Linux-7C3AED?style=flat-square" alt="Stack" />
 </p>
 
 ```text
@@ -20,10 +19,10 @@ $ whoami
 nezine
 
 $ uname -a
-Linux x86_64 6.8.0-rc1 # Linux systems, automation, and AI workflows
+Linux x86_64 6.8.0-rc1 # Embedded Linux, firmware, and systems programming
 
 $ cat /etc/motd
-Build reliable systems from the command line up.
+Understand the hardware. Control the system. Keep it reliable.
 ```
 
 </div>
@@ -32,13 +31,13 @@ Build reliable systems from the command line up.
 
 ## About
 
-I’m a Linux-focused engineer who enjoys building reliable systems at the intersection of operating systems, automation, data, and artificial intelligence.
+I’m a Linux-focused engineer who enjoys building reliable software close to the hardware.
 
-My work centers on using Linux as a foundation for practical AI systems, developer tooling, and production-ready workflows.
+My work centers on embedded programming, low-level systems, firmware, and the Linux tools that make development, debugging, and deployment effective.
 
-- Interested in **Linux systems, shell scripting, AI agents, automation, and data pipelines**
-- Enjoy turning prototypes into observable, testable, and maintainable tools
-- Prefer **practical experimentation, clear interfaces, and reproducible environments**
+- Interested in **embedded systems, firmware, Embedded Linux, device drivers, and hardware interfaces**
+- Enjoy working with **microcontrollers, real-time constraints, memory, concurrency, and communication protocols**
+- Prefer **practical experimentation, measurable behavior, and simple, maintainable designs**
 
 ---
 
@@ -46,15 +45,15 @@ My work centers on using Linux as a foundation for practical AI systems, develop
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  LINUX & SYSTEMS                                            │
-│  ├─ Linux environments and shell-first workflows            │
-│  ├─ System administration, debugging, and observability     │
-│  └─ Reliable services, tooling, and automation              │
+│  EMBEDDED SYSTEMS                                           │
+│  ├─ C and C++ firmware development                          │
+│  ├─ Microcontrollers, peripherals, and hardware interfaces   │
+│  └─ Interrupts, timers, memory, and real-time behavior       │
 │                                                             │
-│  AI & AUTOMATION                                            │
-│  ├─ AI-assisted developer workflows                         │
-│  ├─ Agentic systems and orchestration                       │
-│  └─ Data-aware tools and retrieval workflows                │
+│  LINUX & LOW-LEVEL SOFTWARE                                 │
+│  ├─ Embedded Linux environments and board bring-up          │
+│  ├─ Device drivers, debugging, and system observability     │
+│  └─ Shell tools, cross-compilation, and reproducible builds │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -65,26 +64,32 @@ My work centers on using Linux as a foundation for practical AI systems, develop
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,c" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python" alt="Languages" />
 </p>
 
 ### Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,pytorch,tensorflow,anaconda" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode" alt="Technologies and tools" />
 </p>
+
+- **Build systems:** Make, CMake, cross-compilation toolchains
+- **Embedded platforms:** Microcontrollers, Embedded Linux, development boards
+- **Interfaces:** UART, SPI, I²C, GPIO, USB, and networking
+- **Debugging:** GDB, logic analyzers, serial consoles, and Linux tracing tools
 
 ---
 
 ## Engineering Principles
 
-> Read the source. Measure before optimizing. Keep the interfaces simple.
+> Read the datasheet. Measure the signal. Understand the system.
 
-- Use Linux fundamentals to understand and solve problems at the right layer.
-- Build systems that are observable before they are impressive.
-- Treat automation and AI workflows like infrastructure: versioned, debuggable, and reproducible.
-- Prefer small, composable command-line tools over unnecessary complexity.
-- Ship testable pieces before scaling the system.
+- Use Linux tools to make low-level development observable and repeatable.
+- Respect hardware constraints: memory, timing, power, and reliability.
+- Keep firmware modular, deterministic, and easy to debug.
+- Prefer clear interfaces and small components over unnecessary abstraction.
+- Test behavior on real hardware as well as in development environments.
+- Understand what the compiler, operating system, and hardware are actually doing.
 
 ---
 
@@ -98,6 +103,6 @@ My work centers on using Linux as a foundation for practical AI systems, develop
 
 <div align="center">
 
-<sub>Learning Linux, systems, and intelligent tools one layer at a time.</sub>
+<sub>Learning Linux, hardware, and low-level systems one layer at a time.</sub>
 
 </div>
