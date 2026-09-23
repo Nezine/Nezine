@@ -4,7 +4,6 @@
 
 <div align="center">
 
-# Nezine
 
 ### Linux Engineer · AI Systems · Automation
 
