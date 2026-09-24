@@ -47,8 +47,8 @@ My work centers on embedded programming, low-level systems, firmware, and the Li
 ┌─────────────────────────────────────────────────────────────┐
 │  EMBEDDED SYSTEMS                                           │
 │  ├─ C and C++ firmware development                          │
-│  ├─ Microcontrollers, peripherals, and hardware interfaces   │
-│  └─ Interrupts, timers, memory, and real-time behavior       │
+│  ├─ Microcontrollers, peripherals, and hardware interfaces  │
+│  └─ Interrupts, timers, memory, and real-time behavior      │
 │                                                             │
 │  LINUX & LOW-LEVEL SOFTWARE                                 │
 │  ├─ Embedded Linux environments and board bring-up          │
