@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Nezine — Exploring software, from the terminal to the hardware." />
+  <img src="./assets/header.svg" width="100%" alt="Nezine — C, Linux, and systems programming. Working toward Linux kernel development." />
 </p>
 
 <p align="center">
-  <strong>C / C++ &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Embedded systems</strong><br />
+  <strong>Linux &nbsp;·&nbsp; C / C++ &nbsp;·&nbsp; Systems programming</strong><br />
   <sub>Learning one layer at a time. Building something useful along the way.</sub>
 </p>
 
@@ -13,7 +13,7 @@
 
 I'm learning systems programming and embedded development through small, practical projects. I'm interested in how software works underneath the surface: processes, memory, communication, and the hardware it runs on.
 
-Most of my work starts in a Linux terminal, with C, C++, or Python and a question I want to understand better.
+Most of my work starts in a Linux terminal, with C, C++, or Python and a question I want to understand better. My long-term goal is to work on the **Linux kernel**, so I'm building my foundations in C and operating systems one project at a time.
 
 ### Selected projects
 
