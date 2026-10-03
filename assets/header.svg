@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nezine</title>
+  <desc id="desc">Exploring software, from the terminal to the hardware. A dark banner with teal and violet circuit traces.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#192335"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8498b5" opacity=".16"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect x="56" y="58" width="40" height="4" rx="2" fill="url(#accent)"/>
+  <text x="56" y="98" fill="#5eead4" font-family="monospace" font-size="14" letter-spacing="3">CODE / UNDERSTAND / BUILD</text>
+  <text x="52" y="180" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Nezine<tspan fill="#5eead4">.</tspan></text>
+  <text x="56" y="226" fill="#bac8db" font-family="Arial, Helvetica, sans-serif" font-size="22">Exploring software, from the terminal to the hardware.</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55">
+    <path d="M840 82h85l42 42h155M810 160h130l44 44h138M864 258h62l36-36h160"/>
+    <rect x="785" y="128" width="54" height="64" rx="8"/>
+    <path d="M799 116v12m14-12v12m14-12v12m-28 64v12m14-12v12m14-12v12m-54-62h12m-12 16h12m54-16h12m-12 16h12"/>
+    <circle cx="840" cy="82" r="5"/><circle cx="864" cy="258" r="5"/>
+    <circle cx="1127" cy="124" r="5"/><circle cx="1127" cy="204" r="5"/><circle cx="1127" cy="222" r="5"/>
+  </g>
+  <rect x="56" y="284" width="1088" height="1" fill="url(#accent)" opacity=".3"/>
+</svg>

@@ -1,108 +1,47 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Nezine&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Building%20Reliable%20Software%20Close%20to%20the%20Hardware&descAlignY=62&descSize=18" alt="Nezine header" />
-</div>
-
-<div align="center">
-
-### Embedded Linux · Firmware · C/C++
-
-<p>
-  <a href="https://github.com/Nezine">
-    <img src="https://img.shields.io/badge/GitHub-Nezine-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Linux%20%26%20Embedded%20Systems-36BCF7?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-C%20%7C%20C%2B%2B%20%7C%20Embedded%20Linux-7C3AED?style=flat-square" alt="Stack" />
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Nezine — Exploring software, from the terminal to the hardware." />
 </p>
 
-```text
-$ whoami
-nezine
-
-$ uname -a
-Linux x86_64 6.8.0-rc1 # Embedded Linux, firmware, and systems programming
-
-$ cat /etc/motd
-Understand the hardware. Control the system. Keep it reliable.
-```
-
-</div>
-
----
-
-## About
-
-I’m a Linux-focused engineer who enjoys building reliable software close to the hardware.
-
-My work centers on embedded programming, low-level systems, firmware, and the Linux tools that make development, debugging, and deployment effective.
-
-- Interested in **embedded systems, firmware, Embedded Linux, device drivers, and hardware interfaces**
-- Enjoy working with **microcontrollers, real-time constraints, memory, concurrency, and communication protocols**
-- Prefer **practical experimentation, measurable behavior, and simple, maintainable designs**
-
----
-
-## Current Focus
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  EMBEDDED SYSTEMS                                           │
-│  ├─ C and C++ firmware development                          │
-│  ├─ Microcontrollers, peripherals, and hardware interfaces  │
-│  └─ Interrupts, timers, memory, and real-time behavior      │
-│                                                             │
-│  LINUX & LOW-LEVEL SOFTWARE                                 │
-│  ├─ Embedded Linux environments and board bring-up          │
-│  ├─ Device drivers, debugging, and system observability     │
-│  └─ Shell tools, cross-compilation, and reproducible builds │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Toolbox
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python" alt="Languages" />
+<p align="center">
+  <strong>C / C++ &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Embedded systems</strong><br />
+  <sub>Learning one layer at a time. Building something useful along the way.</sub>
 </p>
 
-### Technologies & Tools
+---
+
+### Hello, I'm Nezine
+
+I'm learning systems programming and embedded development through small, practical projects. I'm interested in how software works underneath the surface: processes, memory, communication, and the hardware it runs on.
+
+Most of my work starts in a Linux terminal, with C, C++, or Python and a question I want to understand better.
+
+### Selected projects
+
+| Project | What I'm building |
+| :--- | :--- |
+| **[OpenCode Discord](https://github.com/Nezine/opencode-discord)** | A Discord bridge for OpenCode, with streamed replies, conversation controls, and a native C++ engine. **Python · C++ · Linux** |
+| **[Cold Chain Logistics](https://github.com/Nezine/cold-chain-esp32-logistics)** | A team project exploring cold-chain monitoring, with sensor simulation and an ESP32 learning track. **Python · IoT · ESP32** |
+| **[Simple Shell](https://github.com/Nezine/simple-shell)** | A small shell with basic commands, built to explore systems programming. **C · Shell** |
+
+### On my workbench
+
+- **Firmware:** learning ESP32 development, sensor readings, and timing.
+- **Systems:** exploring C/C++, memory, processes, and operating systems.
+- **Linux:** making tools easier to run, debug, and maintain.
+
+### Tools I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode" alt="Technologies and tools" />
+  <img src="https://img.shields.io/badge/C-151B23?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-151B23?style=flat-square&amp;logo=cplusplus&amp;logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-151B23?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-151B23?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-151B23?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-151B23?style=flat-square&amp;logo=gnubash&amp;logoColor=4EAA25" alt="Bash" />
 </p>
 
-- **Build systems:** Make, CMake, cross-compilation toolchains
-- **Embedded platforms:** Microcontrollers, Embedded Linux, development boards
-- **Interfaces:** UART, SPI, I²C, GPIO, USB, and networking
-- **Debugging:** GDB, logic analyzers, serial consoles, and Linux tracing tools
+> Build a small piece. Understand how it works. Make it better.
 
----
-
-## Engineering Principles
-
-> Read the datasheet. Measure the signal. Understand the system.
-
-- Use Linux tools to make low-level development observable and repeatable.
-- Respect hardware constraints: memory, timing, power, and reliability.
-- Keep firmware modular, deterministic, and easy to debug.
-- Prefer clear interfaces and small components over unnecessary abstraction.
-- Test behavior on real hardware as well as in development environments.
-- Understand what the compiler, operating system, and hardware are actually doing.
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nezine&hide_border=true&theme=github-dark-blue" height="165" alt="GitHub streak" />
-</div>
-
----
-
-<div align="center">
-
-<sub>Learning one layer at a time.</sub>
-
-</div>
+<p align="center">
+  <sub>Explore the projects above to see what I'm learning and building.</sub>
+</p>
