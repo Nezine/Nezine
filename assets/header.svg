@@ -14,7 +14,7 @@
     <text x="38" y="164" fill="#f0f6fc" font-size="43" font-weight="bold">Nezine</text>
     <text x="38" y="214" font-size="23"><tspan fill="#7ee787">nezine@linux</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ cat direction.txt</tspan></text>
     <text x="38" y="254" fill="#c9d1d9" font-size="22">C / Linux / systems programming</text>
-    <text x="38" y="291" fill="#a5d6ff" font-size="22">Long-term goal: contribute to the Linux kernel.</text>
+    <text x="38" y="291" fill="#a5d6ff" font-size="22">Long-term goal: understand the Linux kernel.</text>
     <text x="38" y="345" font-size="23"><tspan fill="#7ee787">nezine@linux</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$</tspan></text>
     <rect x="246" y="325" width="13" height="25" fill="#7ee787"/>
   </g>
